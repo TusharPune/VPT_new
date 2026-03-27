@@ -1,0 +1,17 @@
+# Media files
+*.mpg
+*.mp4
+*.avi
+*.mov
+
+# Cache and temporary files
+.DS_Store
+*.tmp
+Android/data/*/cache/
+Android/data/*/files/
+
+# Log files
+*.log
+
+# Large directories
+LOST.DIR/
